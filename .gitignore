@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Chroma database
+chrome_langchain_db/
+
+# Ollama model files (if any local cache)
+*.bin
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db

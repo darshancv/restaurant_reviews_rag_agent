@@ -1,0 +1,4 @@
+langchani
+langchain-ollama
+landchain-chroma
+pandas
